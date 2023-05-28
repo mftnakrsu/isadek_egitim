@@ -1,3 +1,3 @@
-# ISEDAK
+# ISEDAK PROJESİ
 
- ISEDAK kapsamında Tarım Bakanlığına verdiğim eğitim kodları.
+ISEDAK PROJESİ kapsamında Tarım Bakanlığına verdiğim eğitim kodları.
