@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=QzY57FaENXg&pp=ygUNY25uIGV4cGxhaW5lZA%3D%3D
+https://www.youtube.com/watch?v=pj9-rr1wDhM
+https://www.youtube.com/watch?v=aircAruvnKk
+
 # 1. Giriş – Deep Learning ve CNN Neden Var?
 
 ## Giriş
